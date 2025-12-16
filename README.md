@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=transparent)
+
 ### Hi there 👋
 * 👂 My name is Huy
 * 🔭 I’m currently working on Voice/Speech and Computer Vision
